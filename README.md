@@ -1,2 +1,3 @@
 ## 🔗 Live Website:
-[# event-invitation](https://subha100x.github.io/event-invitation/)
+[# Birthday-invitation](https://subha100x.github.io/event-invitation/)
+with basic CSS & HTML only  
